@@ -1,5 +1,5 @@
 # Data-Anaytics-Portfolio
-This is a portfolio of my data analysis projects.
+Welcome to my data analytics portfolio. This portfolio includes my data analysis, forecasting, and machine learning projects.
 
 Association Analysis Project
 <br>https://nbviewer.org/github/bwyndham/Data-Anaytics-Portfolio/blob/main/Association%20Analysis%20Project.ipynb
