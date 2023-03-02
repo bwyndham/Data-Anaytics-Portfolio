@@ -9,5 +9,5 @@ Welcome to my data analytics portfolio. This portfolio includes my data analysis
 [Time Series Forecasting with SARIMA](https://github.com/bwyndham/Data-Anaytics-Portfolio/blob/main/Time%20Series%20Forecast%20-%20FRED%20Data%20-%20Advance%20Retail%20Sales%20Clothing%20and%20Clothing%20Accessory%20Stores.ipynb)
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/benwyndham/)
+[LinkedIn](https://www.linkedin.com/in/benwyndham/)<br>
 [Website](https://benjaminwyndham.com/)
